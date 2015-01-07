@@ -1,6 +1,4 @@
-Standalone OpenTsdb docker image, Hbase included!
-===============
-#opentsdb-docker
+#opentsdb-hbase-docker: Standalone OpenTsdb docker image, Hbase included!
 
 A well organized influxdb docker container.
 ######Pull from Docker Hub
