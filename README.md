@@ -6,7 +6,7 @@ Standalone OpenTsdb docker image, Hbase included!
     make
 ######Deploy Image
     make deploy
-######Test Image
-    make test
+######Destroy Deployed Image
+    make destroy
 ######Shell into container
     make shell
